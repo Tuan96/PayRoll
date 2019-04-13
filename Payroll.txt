@@ -6,7 +6,7 @@ import java.util.Scanner;
 import javax.swing.JOptionPane;
 /**
  * Florida company A Paycheck - Version 1.8
- * @author Tony, Emma, Rasik, Ben, and Group A.
+ * @author Tony, Emma. 
  * 
  * This program is made to calculate and display WEEKLY employee pay stubs for ABC Company
  * 
